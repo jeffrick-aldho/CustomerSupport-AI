@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Refund Policy",
+    "content": "Customers can request refunds within 7 days of delivery if the product is damaged, defective, or incorrect. Refunds are processed after the returned item is inspected. Refunds are not available for change of mind after the return window."
+  },
+  {
+    "title": "Return Policy",
+    "content": "Products can be returned within 7 days of delivery if they are unused, in original packaging, and accompanied by the invoice. Some categories such as personal care items, innerwear, and gift cards are non-returnable unless damaged or defective."
+  },
+  {
+    "title": "Delivery Delay",
+    "content": "If delivery is delayed beyond 5 business days from the estimated delivery date, customers may request a status check. If the delay crosses 7 business days, support can offer cancellation or escalation depending on the shipment status."
+  },
+  {
+    "title": "Damaged Product",
+    "content": "If a product arrives damaged, customers should share photos of the package and product within 48 hours of delivery. Support should arrange pickup, replacement, or refund based on stock availability and policy eligibility."
+  },
+  {
+    "title": "Cancellation Policy",
+    "content": "Orders can be cancelled before dispatch without any fee. Once the order is shipped, cancellation is not possible and the customer must use the return process after delivery, if eligible."
+  }
+]
